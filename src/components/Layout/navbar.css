@@ -1,0 +1,46 @@
+
+/* .name{
+    font-family: 'Poppins', sans-serif;
+} */
+/* .custom-font{
+    font-size: 25px !important;
+    text-decoration: none !important;
+    color: black;
+} */
+
+.nav-link{
+    font-size: 1.2rem !important;
+}
+.navbar{
+   
+    padding-top: 0% !important;
+    padding-bottom: 0% !important;
+}
+.cursor{
+    cursor: pointer;
+  
+}
+.custom-dropdown-menu {
+    width: 4px !important; 
+  }
+  .dropdown-radius{
+    border-radius: "50px";
+    background-color:"white"
+  }
+  .icon-border{
+    border: "beige" !important;
+  }
+  .dropdown-toggle::after {
+    display: inline-block;
+    margin-left: 0em !important;
+   
+   
+   border-top: 0px !important  ;
+    
+   
+    border-bottom: 0;
+    
+}
+.pointer_css{
+  cursor:wait !important
+}
